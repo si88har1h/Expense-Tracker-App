@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Siddharth Mehta</h1>
-<h3 align="center">A passionate frontend developer from India (Rajasthan)</h3>
-
 # Expense Tracker App
 This project helped me understand basic concepts of ReactJS like how conditional lists of data are rendered, two-way binding, various hooks etc.
 
